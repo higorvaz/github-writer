@@ -1,4 +1,4 @@
-## GitHub WYSIWYG Rich-Text Editor
+## GitHub WYSIWYG Rich-Text Editor `que doido!`
 
 GitHub Writer is a WYSIWYG rich-text editor for GitHub. The extension is available when creating or commenting on issues, reviews, pull requests, and wikis. 
 
@@ -92,7 +92,6 @@ The source code contains additional readme files with technical details about th
 
 ---
 
-Copyright (c) 2003-2022, [CKSource](http://cksource.com) Holding sp. z o.o. All rights reserved.
+QCopyright (c) 2003-2022, [CKSource](http://cksource.com) Holding sp. z o.o. All rights reserved.
 
 GitHub is a trademark of [GitHub](https://github.com/), Inc.
-
